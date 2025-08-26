@@ -1,6 +1,6 @@
 # Networking Fundamentals 🌐
 
-## 1.1.3 The Internet
+## The Internet
 The internet is **not owned by any individual or group**. It is a worldwide collection of interconnected networks (internetwork or “internet” for short), cooperating with each other to exchange information using **common standards**.
 
 Through telephone wires, fiber-optic cables, wireless transmissions, and satellite links, internet users can exchange information in a variety of forms.
@@ -21,7 +21,7 @@ All of these internet destinations are connected to **local networks** that send
 
 ---
 
-## 1.1.4 Local Networks
+##  Local Networks
 Local networks come in all sizes, from two connected computers to **hundreds of thousands of devices**.  
 
 - **SOHO (Small Office/Home Office) Networks**:  
@@ -44,7 +44,7 @@ The internet is called a **“network of networks”** because it’s literally 
 
 ---
 
-## 1.1.5 Mobile Devices
+## Mobile Devices
 The internet connects more than just laptops and desktops. Many everyday devices also connect:  
 
 - **Smartphone** 📱 → combines phone, camera, GPS, media player, and computer functions.  
@@ -54,7 +54,7 @@ The internet connects more than just laptops and desktops. Many everyday devices
 
 ---
 
-## 1.1.6 Connected Home Devices
+## Connected Home Devices
 Many household devices can also connect to the internet for remote monitoring and control:  
 - 🔒 **Security systems**  
 - 🍳 **Smart appliances**  
@@ -65,7 +65,7 @@ Example: Security systems, lighting, and climate controls can be managed from a 
 
 ---
 
-## 1.1.7 Other Connected Devices
+## Other Connected Devices
 Outside the home, many devices are also connected to the internet for convenience and critical use:  
 
 - 🚗 **Smart Cars** → Access maps, entertainment, send alerts during theft or accidents, connect to phones.  
@@ -76,7 +76,14 @@ Outside the home, many devices are also connected to the internet for convenienc
 Smart cars can even connect to smartphones and tablets to:  
 - Display engine/system info  
 - Provide maintenance alerts  
-- Show security status  
+- Show security status
+
+## Remarks
+At first, I was really confused between LAN and the Internet.  
+Now it finally makes sense to me:  
+- A **LAN** is like my own little private network at home (for example, my laptop sending files to my printer).  
+- The **Internet** is much bigger—it’s all the LANs and WANs connected together across the world.  
+Understanding this helped me see why I can still print something even if the internet is off—it all stays inside my LAN.  
 
 ---
 
